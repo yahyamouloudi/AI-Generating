@@ -1,6 +1,24 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1> Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma</h1>
 
-## Getting Started
+<h2>Features:</h2>
+
+Tailwind design<br/>
+Tailwind animations and effects<br/>
+Full responsiveness<br/>
+Clerk Authentication (Email, Google, 9+ Social Logins)<br/>
+Client form validation and handling using react-hook-form<br/>
+Server error handling using react-toast<br/>
+Image Generation Tool (Open AI)<br/>
+Video Generation Tool (Replicate AI)<br/>
+Conversation Generation Tool (Open AI)<br/>
+Music Generation Tool (Replicate AI)<br/>
+Page loading state<br/>
+Free tier with API limiting<br/>
+How to write POST, DELETE, and GET routes in route handlers (app/api)<br/>
+How to fetch data in server react components by directly accessing database<br/>
+How to handle relations between Server and Child components!<br/>
+How to reuse layouts<br/>
+Folder structure in Next 13 App Router<br/>
 
 First, run the development server:
 
